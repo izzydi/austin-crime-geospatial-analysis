@@ -1,5 +1,7 @@
 # Austin Crime Mapping
 
+> **Historical portfolio artifact:** this repository preserves the rendered interactive analysis; the original executable source is not currently available here.
+
 A geospatial visualization project focused on crime data in Austin, Texas, presented as a rendered interactive HTML analysis.
 
 ## Repository contents
