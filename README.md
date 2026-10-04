@@ -1,19 +1,19 @@
-# Austin Crime Map
+# Austin Crime Mapping
 
-A geospatial analysis project that visualizes crime-related data for Austin, Texas, with the completed output preserved as a rendered HTML report.
+A geospatial visualization project focused on crime data in Austin, Texas, presented as a rendered interactive HTML analysis.
 
 ## Repository contents
 
-- [`Crime_map_Austin.html`](Crime_map_Austin.html) — rendered geospatial analysis and map output.
+- [`austin_crime_map.html`](austin_crime_map.html) — rendered spatial analysis and map output.
 
 ## Project focus
 
-The project demonstrates the use of spatial visualization to explore location-based patterns in crime data. It is presented as an analysis artifact rather than a production application.
+The project demonstrates location-based data exploration and map-driven communication of crime patterns. The rendered report is preserved as the primary portfolio artifact.
 
-## Viewing the analysis
+## Viewing the project
 
-Download `Crime_map_Austin.html` and open it in a web browser. Because GitHub does not directly render all embedded HTML/JavaScript visualizations, local viewing or an HTML preview service is recommended.
+Download `austin_crime_map.html` and open it in a modern browser. GitHub does not execute embedded HTML visualizations directly, so local viewing or a compatible HTML preview service provides the best experience.
 
 ## Reproducibility note
 
-The repository currently contains the rendered report rather than the original source notebook/script. The analysis is therefore preserved primarily as a portfolio example of geospatial data work.
+The original source script or notebook is not currently included in the repository, so this repository is best treated as an archive of the completed analysis rather than a fully reproducible software package.
